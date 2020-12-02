@@ -1,0 +1,19 @@
+{
+  "name": "algorithms-design-analysis",
+  "version": "1.0.0",
+  "description": "Stanford online course for algorithm design and analysis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ccfreem/algorithms-design-and-analysis.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ccfreem/algorithms-design-and-analysis/issues"
+  },
+  "homepage": "https://github.com/ccfreem/algorithms-design-and-analysis#readme"
+}
